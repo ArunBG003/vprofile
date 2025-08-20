@@ -9,6 +9,3 @@ EXPOSE 8080
 CMD ["catalina.sh", "run"]
 WORKDIR /usr/local/tomcat/
 VOLUME /usr/local/tomcat/webapps
-#
-#
-#
